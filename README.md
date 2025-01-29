@@ -6,6 +6,7 @@
 |---------|-------------|
 | `git add <filename>` | Stage a file |
 | `git add *` | Stage all files |
+| `git add -u` | Stage modified files |
 | `git add --patch` | Allows splitting of files (partially staging them) |
 
 | Command | Description |
